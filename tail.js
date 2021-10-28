@@ -8,17 +8,17 @@ const assertEqual = function(actual, expected) {
 };
 
 
-const tail = function(array){
-let newArr = array.slice(1);
-return newArr;
+const tail = function(array) {
+  let newArr = array.slice(1);
+  return newArr;
 
 };
 
-console.log (tail([1,2,3]));
+console.log(tail([1,2,3]));
 
 //HOW TO TEST IT
 
-const result = tail (["Hello", "Lighthouse", "Labs"]);
+const result = tail(["Hello", "Lighthouse", "Labs"]);
 assertEqual(result.length, 2); // ensure we get back two elements
 assertEqual(result[0], "Lighthouse"); // ensure first element is "Lighthouse"
 assertEqual(result[1], "Labs"); // ensure second element is "Labs"
