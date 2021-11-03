@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@ekinkoluk/lotide",
   "version": "1.0.0",
   "description": "",
   "main": "assertArraysEqual.js",
@@ -13,7 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/ekinkoluk/lotide.git"
   },
-  "author": "",
+  "author": {
+    
+      "name" : "Ekin Koluk",
+      "email" : "ekinkoluk@gmail.com"
+      
+    
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ekinkoluk/lotide/issues"
