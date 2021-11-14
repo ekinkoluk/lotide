@@ -29,7 +29,7 @@ The following functions are currently implemented:
 * `function1(...)`: description
 
 * `head` : returns the first element of a given array  
-* `tail` :  return the tail of a gicen array
+* `tail` :  return the tail of a given array
 * `middle`: returns the middle elements of given array
 * `assertArraysEqual`: checks if two arrays is equal
 * `assertEqual` : compares values with ===
