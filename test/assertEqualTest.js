@@ -8,7 +8,7 @@ assertEqual(1,1);
 assertEqual("Ekin", "Ekin");
 
 // Comparing non-identical strings
-assertEqual("Ekin", "Yekta");
+assertEqual("Ekin", "Ceyda");
 // Comparing identical numbers
 assertEqual(5,5);
 // Comparing non-identical numbers
